@@ -1,0 +1,35 @@
+[0.760s] Invoking command in '/home/timi/Dev/ROS2-Publisher/src/simple_subscriber_py': PYTHONPATH=/home/timi/Dev/ROS2-Publisher/build/simple_subscriber_py/prefix_override:/home/timi/Dev/ROS2-Publisher/install/simple_subscriber_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/simple_subscriber_py build --build-base /home/timi/Dev/ROS2-Publisher/build/simple_subscriber_py/build install --record /home/timi/Dev/ROS2-Publisher/build/simple_subscriber_py/install.log --single-version-externally-managed
+[0.963s] running egg_info
+[0.964s] creating ../../build/simple_subscriber_py/simple_subscriber_py.egg-info
+[0.964s] writing ../../build/simple_subscriber_py/simple_subscriber_py.egg-info/PKG-INFO
+[0.965s] writing dependency_links to ../../build/simple_subscriber_py/simple_subscriber_py.egg-info/dependency_links.txt
+[0.965s] writing entry points to ../../build/simple_subscriber_py/simple_subscriber_py.egg-info/entry_points.txt
+[0.965s] writing requirements to ../../build/simple_subscriber_py/simple_subscriber_py.egg-info/requires.txt
+[0.966s] writing top-level names to ../../build/simple_subscriber_py/simple_subscriber_py.egg-info/top_level.txt
+[0.966s] writing manifest file '../../build/simple_subscriber_py/simple_subscriber_py.egg-info/SOURCES.txt'
+[0.966s] reading manifest file '../../build/simple_subscriber_py/simple_subscriber_py.egg-info/SOURCES.txt'
+[0.967s] writing manifest file '../../build/simple_subscriber_py/simple_subscriber_py.egg-info/SOURCES.txt'
+[0.967s] running build
+[0.967s] running build_py
+[0.967s] creating /home/timi/Dev/ROS2-Publisher/build/simple_subscriber_py/build
+[0.967s] creating /home/timi/Dev/ROS2-Publisher/build/simple_subscriber_py/build/lib
+[0.967s] creating /home/timi/Dev/ROS2-Publisher/build/simple_subscriber_py/build/lib/simple_subscriber_py
+[0.967s] copying simple_subscriber_py/__init__.py -> /home/timi/Dev/ROS2-Publisher/build/simple_subscriber_py/build/lib/simple_subscriber_py
+[0.967s] running install
+[0.971s] running install_lib
+[0.971s] creating /home/timi/Dev/ROS2-Publisher/install/simple_subscriber_py/lib/python3.10/site-packages/simple_subscriber_py
+[0.971s] copying /home/timi/Dev/ROS2-Publisher/build/simple_subscriber_py/build/lib/simple_subscriber_py/__init__.py -> /home/timi/Dev/ROS2-Publisher/install/simple_subscriber_py/lib/python3.10/site-packages/simple_subscriber_py
+[0.971s] byte-compiling /home/timi/Dev/ROS2-Publisher/install/simple_subscriber_py/lib/python3.10/site-packages/simple_subscriber_py/__init__.py to __init__.cpython-310.pyc
+[0.971s] running install_data
+[0.971s] creating /home/timi/Dev/ROS2-Publisher/install/simple_subscriber_py/share/ament_index
+[0.971s] creating /home/timi/Dev/ROS2-Publisher/install/simple_subscriber_py/share/ament_index/resource_index
+[0.971s] creating /home/timi/Dev/ROS2-Publisher/install/simple_subscriber_py/share/ament_index/resource_index/packages
+[0.971s] copying resource/simple_subscriber_py -> /home/timi/Dev/ROS2-Publisher/install/simple_subscriber_py/share/ament_index/resource_index/packages
+[0.971s] copying package.xml -> /home/timi/Dev/ROS2-Publisher/install/simple_subscriber_py/share/simple_subscriber_py
+[0.971s] running install_egg_info
+[0.971s] Copying ../../build/simple_subscriber_py/simple_subscriber_py.egg-info to /home/timi/Dev/ROS2-Publisher/install/simple_subscriber_py/lib/python3.10/site-packages/simple_subscriber_py-0.0.0-py3.10.egg-info
+[0.971s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.971s]   warnings.warn(
+[0.973s] running install_scripts
+[0.989s] writing list of installed files to '/home/timi/Dev/ROS2-Publisher/build/simple_subscriber_py/install.log'
+[1.007s] Invoked command in '/home/timi/Dev/ROS2-Publisher/src/simple_subscriber_py' returned '0': PYTHONPATH=/home/timi/Dev/ROS2-Publisher/build/simple_subscriber_py/prefix_override:/home/timi/Dev/ROS2-Publisher/install/simple_subscriber_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/simple_subscriber_py build --build-base /home/timi/Dev/ROS2-Publisher/build/simple_subscriber_py/build install --record /home/timi/Dev/ROS2-Publisher/build/simple_subscriber_py/install.log --single-version-externally-managed

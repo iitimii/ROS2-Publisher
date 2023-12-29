@@ -1,0 +1,3 @@
+[console_scripts]
+simple_publisher = simple_publisher_py.publisher_node:main
+
